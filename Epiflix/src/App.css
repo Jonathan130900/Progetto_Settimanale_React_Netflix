@@ -92,6 +92,13 @@ footer a:hover {
   margin-bottom: 20px;
 }
 
+.rectangular-img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
 h2.mb-4 {
   margin-bottom: 1rem;
 }
